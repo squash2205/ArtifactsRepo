@@ -12,14 +12,6 @@
       <NEVERCACHE>0</NEVERCACHE>
       <SCALE>0</SCALE>
       <ALNDOMAIN>
-        <ALNDOMAINID>28751</ALNDOMAINID>
-        <DESCRIPTION>Canceled Job</DESCRIPTION>
-        <ORGID />
-        <SITEID />
-        <VALUE>C</VALUE>
-        <VALUEID>PGEREASONCODE|C</VALUEID>
-      </ALNDOMAIN>
-      <ALNDOMAIN>
         <ALNDOMAINID>28753</ALNDOMAINID>
         <DESCRIPTION>Customer Changed mind</DESCRIPTION>
         <ORGID />
