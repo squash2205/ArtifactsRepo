@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SyncPGEMAXDOMAIN xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationDateTime="2018-07-18T15:00:40-07:00" transLanguage="EN" baseLanguage="EN" messageID="1531951241019780376" maximoVersion="7 5 20130129-2023 V7504-38" event="0">
+  <PGEMAXDOMAINSet>
+    <MAXDOMAIN>
+      <DESCRIPTION>Reason Code for Customer Commitment</DESCRIPTION>
+      <DOMAINID>PGEREASONCODE</DOMAINID>
+      <DOMAINTYPE maxvalue="ALN">ALN</DOMAINTYPE>
+      <INTERNAL>0</INTERNAL>
+      <LENGTH>8</LENGTH>
+      <MAXDOMAINID>1672</MAXDOMAINID>
+      <MAXTYPE>UPPER</MAXTYPE>
+      <NEVERCACHE>0</NEVERCACHE>
+      <SCALE>0</SCALE>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28751</ALNDOMAINID>
+        <DESCRIPTION>Canceled Job</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>C</VALUE>
+        <VALUEID>PGEREASONCODE|C</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28753</ALNDOMAINID>
+        <DESCRIPTION>Customer Changed mind</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>CCM</VALUE>
+        <VALUEID>PGEREASONCODE|CCM</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28752</ALNDOMAINID>
+        <DESCRIPTION>Contract Design</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>CD</VALUE>
+        <VALUEID>PGEREASONCODE|CD</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28754</ALNDOMAINID>
+        <DESCRIPTION>Customer Design Exception Process</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>CDEP</VALUE>
+        <VALUEID>PGEREASONCODE|CDEP</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28755</ALNDOMAINID>
+        <DESCRIPTION>Customer Not Ready</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>CNR</VALUE>
+        <VALUEID>PGEREASONCODE|CNR</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28769</ALNDOMAINID>
+        <DESCRIPTION>Customer Review</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>CR</VALUE>
+        <VALUEID>PGEREASONCODE|CR</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28763</ALNDOMAINID>
+        <DESCRIPTION>Design corrections in approval process</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>D</VALUE>
+        <VALUEID>PGEREASONCODE|D</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28766</ALNDOMAINID>
+        <DESCRIPTION>Designer Time</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>DT</VALUE>
+        <VALUEID>PGEREASONCODE|DT</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28756</ALNDOMAINID>
+        <DESCRIPTION>Easement Issues</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>E</VALUE>
+        <VALUEID>PGEREASONCODE|E</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28765</ALNDOMAINID>
+        <DESCRIPTION>PGE Engineer Review</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>ER</VALUE>
+        <VALUEID>PGEREASONCODE|ER</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28757</ALNDOMAINID>
+        <DESCRIPTION>Gear Review</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>GR</VALUE>
+        <VALUEID>PGEREASONCODE|GR</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28750</ALNDOMAINID>
+        <DESCRIPTION>Initial Design Complete Commitment Date</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>I</VALUE>
+        <VALUEID>PGEREASONCODE|I</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28770</ALNDOMAINID>
+        <DESCRIPTION>Waiting on customer - preliminary design approval</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>PDA</VALUE>
+        <VALUEID>PGEREASONCODE|PDA</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28758</ALNDOMAINID>
+        <DESCRIPTION>Pathway Issues</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>PI</VALUE>
+        <VALUEID>PGEREASONCODE|PI</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28759</ALNDOMAINID>
+        <DESCRIPTION>Unforeseen Redesign 3rd Party</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>R3</VALUE>
+        <VALUEID>PGEREASONCODE|R3</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28768</ALNDOMAINID>
+        <DESCRIPTION>Reassigned from other SDPM</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>RA</VALUE>
+        <VALUEID>PGEREASONCODE|RA</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28760</ALNDOMAINID>
+        <DESCRIPTION>Unforeseen Redesign Customer</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>RC</VALUE>
+        <VALUEID>PGEREASONCODE|RC</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28761</ALNDOMAINID>
+        <DESCRIPTION>Unforeseen Redesign PGE</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>RPGE</VALUE>
+        <VALUEID>PGEREASONCODE|RPGE</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28764</ALNDOMAINID>
+        <DESCRIPTION>Supervisor Review</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>SR</VALUE>
+        <VALUEID>PGEREASONCODE|SR</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28762</ALNDOMAINID>
+        <DESCRIPTION>SDPM Workload</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>W</VALUE>
+        <VALUEID>PGEREASONCODE|W</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28767</ALNDOMAINID>
+        <DESCRIPTION>Waiting For Customer Construction</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>WFC</VALUE>
+        <VALUEID>PGEREASONCODE|WFC</VALUEID>
+      </ALNDOMAIN>
+    </MAXDOMAIN>
+  </PGEMAXDOMAINSet>
+</SyncPGEMAXDOMAIN>
+

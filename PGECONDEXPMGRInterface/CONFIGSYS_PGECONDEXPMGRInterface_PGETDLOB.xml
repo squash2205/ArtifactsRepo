@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SyncPGECONDEXPMGR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationDateTime="2014-02-26T20:56:37-08:00" transLanguage="EN" baseLanguage="EN" messageID="1393476997968328642" maximoVersion="7 5 20130129-2023 V7504-38" event="0">
+  <PGECONDEXPMGRSet>
+    <CONDITION>
+      <CLASSNAME />
+      <CONDITIONID>584</CONDITIONID>
+      <CONDITIONNUM>PGETDLOB</CONDITIONNUM>
+      <DESCRIPTION>Checks if the LOB is TD</DESCRIPTION>
+      <EXPRESSION>:pgelob = 'TD'</EXPRESSION>
+      <NOCACHING>1</NOCACHING>
+      <TYPE>EXPRESSION</TYPE>
+    </CONDITION>
+  </PGECONDEXPMGRSet>
+</SyncPGECONDEXPMGR>
+

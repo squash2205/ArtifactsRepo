@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SyncPGEMAXDOMAIN xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationDateTime="2018-09-18T16:05:13-07:00" transLanguage="EN" baseLanguage="EN" messageID="1537311913942173108" maximoVersion="7 5 20130129-2023 V7504-38" event="0">
+  <PGEMAXDOMAINSet>
+    <MAXDOMAIN>
+      <DESCRIPTION>ALN Domain for PGETRIPSET</DESCRIPTION>
+      <DOMAINID>PGETRIPSET</DOMAINID>
+      <DOMAINTYPE maxvalue="ALN">ALN</DOMAINTYPE>
+      <INTERNAL>0</INTERNAL>
+      <LENGTH>12</LENGTH>
+      <MAXDOMAINID>1693</MAXDOMAINID>
+      <MAXTYPE>ALN</MAXTYPE>
+      <NEVERCACHE>0</NEVERCACHE>
+      <SCALE>0</SCALE>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28833</ALNDOMAINID>
+        <DESCRIPTION>100T Trip Set</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>100T</VALUE>
+        <VALUEID>PGETRIPSET|100T</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28830</ALNDOMAINID>
+        <DESCRIPTION>25T Trip Set</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>25T</VALUE>
+        <VALUEID>PGETRIPSET|25T</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28831</ALNDOMAINID>
+        <DESCRIPTION>40T Trip Set</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>40T</VALUE>
+        <VALUEID>PGETRIPSET|40T</VALUEID>
+      </ALNDOMAIN>
+      <ALNDOMAIN>
+        <ALNDOMAINID>28832</ALNDOMAINID>
+        <DESCRIPTION>65T Trip Set</DESCRIPTION>
+        <ORGID />
+        <SITEID />
+        <VALUE>65T</VALUE>
+        <VALUEID>PGETRIPSET|65T</VALUEID>
+      </ALNDOMAIN>
+    </MAXDOMAIN>
+  </PGEMAXDOMAINSet>
+</SyncPGEMAXDOMAIN>
+

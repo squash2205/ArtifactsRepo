@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SyncPGECONDEXPMGR xmlns="http://www.ibm.com/maximo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creationDateTime="2018-07-18T14:58:16-07:00" transLanguage="EN" baseLanguage="EN" messageID="1531951096987504065" maximoVersion="7 5 20130129-2023 V7504-38" event="0">
+  <PGECONDEXPMGRSet>
+    <CONDITION>
+      <CLASSNAME />
+      <CONDITIONID>827</CONDITIONID>
+      <CONDITIONNUM>PGEDESIGNWO</CONDITIONNUM>
+      <DESCRIPTION>Condition to check DESIGN workorder</DESCRIPTION>
+      <EXPRESSION>WORKTYPE='DESIGN'</EXPRESSION>
+      <NOCACHING>1</NOCACHING>
+      <TYPE>EXPRESSION</TYPE>
+    </CONDITION>
+  </PGECONDEXPMGRSet>
+</SyncPGECONDEXPMGR>
+
